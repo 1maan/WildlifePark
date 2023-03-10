@@ -4,7 +4,7 @@
 using namespace std;
 
 void tkt_type(){
-    cout << "\t\t**Developed By Imaan**\n";
+   
     cout<<"\n";
     cout <<"\tA: one adult.\n"<< endl;
     cout <<"\tB: one child (an adult may bring up to two childern).\n"<< endl;
